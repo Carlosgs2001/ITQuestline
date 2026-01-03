@@ -1,0 +1,2 @@
+IT Questline
+Day 1 : Deplowed WIndows Server 2022 and configured Active Directory Domain Services by promoting a the server to a domain controller for corp local
