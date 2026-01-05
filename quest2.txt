@@ -1,0 +1,30 @@
+Quest 2 – Active Directory User & Group Management
+
+Objective:
+Create and manage domain users and security groups in a Windows Server 2022 Active Directory environment.
+
+Environment:
+- Windows Server 2022
+- Active Directory Domain Services
+- Domain: corp.local
+
+Steps Performed:
+1. Verified AD DS services and opened ADUC.
+2. Created Organizational Unit: ITQuestline_Users.
+3. Created domain users:
+   - alice.q
+   - bob.m
+   - charlie.r
+4. Configured password policies (force change at next logon).
+5. Created security group IT_Support.
+6. Added all users to IT_Support group.
+7. Successfully tested login using domain account.
+
+Result:
+Users authenticated successfully and inherited group membership.
+
+Skills Demonstrated:
+- Active Directory user administration
+- Organizational Units
+- Group-based access control
+- Enterprise documentation
