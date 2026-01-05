@@ -21,7 +21,10 @@ Steps Performed:
 7. Successfully tested login using domain account.
 
 Result:
-Users authenticated successfully and inherited group membership.
+Result:
+- Domain users were able to authenticate and change passwords.
+- Interactive login on the Domain Controller was denied, confirming correct security behavior.
+- Identified best practice: domain users should authenticate on domain-joined client machines, not DCs.
 
 Skills Demonstrated:
 - Active Directory user administration
