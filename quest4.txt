@@ -1,0 +1,14 @@
+# Day 4 – Active Directory Lab
+# Date: 2026-01-06
+# Objective: AD users creation and management
+
+## Tasks Done:
+1. Created multiple test users via PowerShell scripts
+2. Documented outputs: successful and failed commands
+3. Confirmed users appeared in AD
+4. Troubleshooted errors (UPN duplicate, invalid syntax)
+5. Learned order of operations for creating multiple users in PowerShell
+
+## Notes / Screenshots:
+- Commands run on Windows Server VM
+- Screenshots saved in screenshots/day4/
