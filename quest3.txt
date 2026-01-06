@@ -1,0 +1,8 @@
+### Day 3 – Active Directory User Creation
+
+- Issue: UPN conflict due to previous "John Doe" user.
+- Action Taken:
+  1. Identified duplicate user with `Get-ADUser`.
+  2. Removed conflicting user with `Remove-ADUser`.
+  3. Created new AD users using `New-ADUser`.
+- Result: John Doe and other test users created successfully.
