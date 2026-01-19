@@ -11,3 +11,8 @@
 - DNS is required for AD to function correctly.
 - DHCP automates IP address assignment.
 - File Services enable centralized storage and access control.
+## DNS Configuration Review
+- Examined Forward Lookup Zones
+- Reviewed A, NS, and SOA records
+- Learned why AD requires internal DNS resolution
+
